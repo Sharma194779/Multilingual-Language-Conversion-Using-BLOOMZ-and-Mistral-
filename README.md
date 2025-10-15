@@ -1,6 +1,4 @@
-Here is a detailed README file template you can use for your multilingual translator project with BLOOMZ and Mistral models, ready for pushing to GitHub:
 
-***
 
 # Multilingual Language Conversion Using BLOOMZ and Mistral
 
